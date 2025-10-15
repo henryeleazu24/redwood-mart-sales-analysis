@@ -18,7 +18,7 @@ The objectives of the analysis are to answer the following business questions :
 The analysis is based on a consolidated dataset of 4651 transactions and 11  columns. It is a record of all the sales done by Redwood Mart across their outlets.
 
 # Data Preview
-![Data Preview](Data_preview.PNG)
+![Data Preview](Data_overview.PNG)
 
 
 
