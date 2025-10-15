@@ -29,7 +29,7 @@ The analysis is based on a consolidated dataset of 4651 transactions and 11  col
 - The average price of products is $142.
 
 ## Dashboard 
-![Dashboard](Redwood_dashboard.PNG)
+![Dashboard](Redwood_dashboard.png)
 
 
 ## Data Cleaning And Transformation
